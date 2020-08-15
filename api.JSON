@@ -1,8 +1,23 @@
-{
-    "name": "Kota Palangka Raya",
-    "positif": "769",
-    "suspek": "91",
-    "probable": "14",
-    "sembuh": "520",
-    "meninggal": "49"
-}
+[
+    {
+        "id": 1,
+        "name": "Kota Palangka Raya",
+        "positif": 769,
+        "sembuh": 520,
+        "meninggal": 49
+    },
+    {
+        "id": 2,
+        "name": "Indonesia",
+        "positif": 137461,
+        "sembuh": 91321,
+        "meninggal": 6071
+    },
+    {
+        "id": 3,
+        "name": "Global",
+        "positif": 17660523,
+        "sembuh": "-",
+        "meninggal": 680894
+    }
+]
