@@ -5,12 +5,5 @@
                 "positif": "790",
                 "sembuh": "538",
                 "meninggal": "49"
-        },
-        {
-                "id":2,
-                "name": "Indonesia",
-                "positif": "139549",
-                "sembuh": "93103",
-                "meninggal": "6150"
         }
 ]
