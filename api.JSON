@@ -1,8 +1,14 @@
-[
-        {
-                "name": "Kota Palangka Raya",
-                "positif": "815",
-                "sembuh": "576",
-                "meninggal": "50"
-        }
-]
+{
+        "Indonesia":
+                {
+                        "positif":149408,
+                        "sembuh":6500,
+                        "meninggal":102991
+                },
+        "Palangkaraya":
+                {
+                        "positif":852,
+                        "sembuh":597,
+                        "meninggal":52
+                }
+}
